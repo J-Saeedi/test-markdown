@@ -1,4 +1,4 @@
-﻿[Link to the original file, before conversion](%URL%.files/tttest.docx)
+[Link to the original file, before conversion](.files/tttest.docx)
 
 &#1575;&#1740;&#1606; &#1740;&#1705; &#1578;&#1587;&#1578; &#1575;&#1587;&#1578;.
 
