@@ -4,4 +4,4 @@
 
 This is a test.
 
-<img src="%URL%.images/tttest/image1.gif" style="width:4.92187in;height:2.79167in" />
+<img src=".images/tttest/image1.gif" style="width:4.92187in;height:2.79167in" />
